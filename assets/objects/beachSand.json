@@ -1,0 +1,37 @@
+{
+	"metadata": {
+		"version": 4.5,
+		"type": "Object",
+		"generator": "Object3D.toJSON"
+	},
+	"geometries": [
+		{
+			"uuid": "5429C38B-568C-4379-9A3E-40B8F1E12E36",
+			"type": "SphereBufferGeometry",
+			"radius": 1,
+			"widthSegments": 30,
+			"heightSegments": 30,
+			"phiStart": 0,
+			"phiLength": 6.283185,
+			"thetaStart": 0,
+			"thetaLength": 0.698132
+		}],
+	"materials": [
+		{
+			"uuid": "582929D0-9204-4FAA-8631-39C061A719E3",
+			"type": "MeshLambertMaterial",
+			"color": 16572277,
+			"emissive": 0,
+			"depthFunc": 3,
+			"depthTest": true,
+			"depthWrite": true
+		}],
+	"object": {
+		"uuid": "8279E691-5F33-4E80-9977-FB5DA0F5D013",
+		"type": "Mesh",
+		"name": "Sphere",
+		"matrix": [0,0,-180.859617,0,0,61.997224,0,0,225.167085,0,0,0,0,-46.27134,0,1],
+		"geometry": "5429C38B-568C-4379-9A3E-40B8F1E12E36",
+		"material": "582929D0-9204-4FAA-8631-39C061A719E3"
+	}
+}
